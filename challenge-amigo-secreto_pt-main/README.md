@@ -5,8 +5,8 @@ Bem-vindo ao projeto Dupla Secreta! Este projeto foi desenvolvido para facilitar
 ## Funcionalidades
 
 - Cadastro de participantes
-- Sorteio automático dos amigos secretos
-- Envio de notificações por e-mail
+- Sorteio automático dos pares
+- Notificações na interface
 - Interface amigável e fácil de usar
 
 ## Como Usar
