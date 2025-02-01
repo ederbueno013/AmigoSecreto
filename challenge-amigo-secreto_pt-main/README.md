@@ -1,6 +1,6 @@
 # Amigo Secreto
 
-Bem-vindo ao projeto Amigo Secreto! Este projeto foi desenvolvido para facilitar a organização e a realização do tradicional jogo de amigo secreto, também conhecido como amigo oculto.
+Bem-vindo ao projeto Dupla Secreta! Este projeto foi desenvolvido para facilitar a organização e a realização do tradicional jogo de duplas, com os pares sendo formados aleatórios e sem repetir o nome do participante. Também conhecido como escolha de pares oculto.
 
 ## Funcionalidades
 
